@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dylan Blue</h1>
-<h3 align="center">Sophomore at the University of Hawaiʻi – West Oʻahu, looking for new opportunites to grow and learn new things!</h3>
+<h3 align="center">Sophomore at the University of Hawaiʻi – West Oʻahu, looking for new opportunities to grow and learn new things!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> bluedylanmason@gmail.com
